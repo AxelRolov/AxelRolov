@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexey Orlov, PhD
+- 👋 Hi there, I’m Alex Orlov, PhD
 - ⚗️🖥️ I am designing new drugs and materials using computational chemistry tools. From time to time, I apply these tools to the environmental chemistry research.
 - 🐦 Twitter: @AlexeyAOrlov
 

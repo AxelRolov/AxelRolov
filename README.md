@@ -1,5 +1,5 @@
-- 👋 Hi there, I’m Alex Orlov, PhD
-- ⚗️🖥️ I am designing new bioactive compounds and advanced materials using computational chemistry tools. From time to time, I apply these tools to the environmental chemistry research.
+- 👋 Hi there, I’m Alexey Orlov, PhD
+- ⚗️🖥️ I'm interested in applying AI for chemistry.
 - 🐦 Twitter: @AlexeyAOrlov
 
 <!---

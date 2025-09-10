@@ -28,16 +28,31 @@ I’m **Alexey Orlov (PhD)**. I work at the intersection of **artificial intelli
 ---
 
 ## 📈 By the numbers
-<div align="center">
+<p align="center">
+  <!-- GitHub Readme Stats -->
+  <a href="https://github.com/AxelRolov">
+    <img
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=AxelRolov&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true&cache_seconds=86400&v=1"
+      height="150"
+    />
+  </a>
+  <a href="https://github.com/AxelRolov">
+    <img
+      alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelRolov&layout=compact&hide_title=true&cache_seconds=86400&v=1"
+      height="150"
+    />
+  </a>
+  <br/>
+  <!-- Streak -->
+  <img
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=AxelRolov&hide_longest_streak=true&v=1"
+    height="150"
+  />
+</p>
 
-<!-- GitHub Readme Stats by @anuraghazra -->
-<img src="https://github-readme-stats.vercel.app/api?username=AxelRolov&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelRolov&layout=compact&hide_title=true" height="150" />
-<br/>
-<!-- Streak by @DenverCoder1 / @anuraghazra alt -->
-<img src="https://streak-stats.demolab.com?user=AxelRolov&hide_longest_streak=true" height="150" />
-
-</div>
 
 ---
 

@@ -21,12 +21,6 @@ I’m **Alexey Orlov (PhD)**. I work at the intersection of **artificial intelli
 
 ---
 
-## 📝 Publications & talks
-- See **Google Scholar** for a full list → [scholar.google.com](https://scholar.google.com/citations?user=fYmg_SsAAAAJ&hl=en)  
-- Invited talks & slides (selected): _add links here_
-
----
-
 ## 📈 By the numbers
 <p align="center">
   <!-- GitHub Readme Stats -->
